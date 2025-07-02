@@ -1,5 +1,5 @@
 # Multi-Class-Classification-using-CNNs-for-CIFAR10-Dataset
-This repository contains Python code implementing a convolutional neural network (CNN) to perform multi-class image classification on the CIFAR-10 dataset using the Keras API.
+This repository contains Python code implementing a Convolutional Neural Network (CNN) to perform multi-class image classification on the CIFAR-10 dataset using the Keras API.
 
 ## Overview
 The project aims to:
